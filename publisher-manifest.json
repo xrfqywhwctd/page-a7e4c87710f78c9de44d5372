@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d1ce35090bb01e89e013d89f",
+  "owner": "xrfqywhwctd",
+  "repo": "page-a7e4c87710f78c9de44d5372",
+  "title": "龙猫云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7e4c87710f78c9de44d5372",
+      "a": "龙猫云",
+      "b": "",
+      "entity": "龙猫云",
+      "brand": "龙猫云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "48fc16540d6dcef9f3a17b8123e7272d8530a72e699b87e8335def9073c745fc",
+      "content": {
+        "keyword1": "龙猫云",
+        "keyword2": "",
+        "primary_entity": "龙猫云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "龙猫云机场提供基础版、旗舰版、团队版套餐，助力网络加速和流媒体解锁。官方客户端下载入口，体验稳定高速网络。",
+          "AI_DESCRIPTION": "龙猫云机场提供基础版、旗舰版、团队版套餐，助力网络加速和流媒体解锁。官方客户端下载入口，体验稳定高速网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --warm-white: #f8f1e3;\n            --coral: #ff6f61;\n            --dark: #2c3e50;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: 'Segoe UI', system-ui, sans-serif;\n            background: var(--warm-white);\n            color: var(--dark);\n            line-height: 1.6;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        @media (max-width: 768px) {\n            body { padding: 0 15px; }\n        }\n        nav {\n            background: white;\n            padding: 15px 0;\n            position: sticky;\n            top: 0;\n            z-index: 10;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n        }\n        .nav-container {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--coral);\n        }\n        .nav-links {\n            display: flex;\n            gap: 30px;\n        }\n        .nav-links a {\n            text-decoration: none;\n            color: var(--dark);\n            font-weight: 500;\n        }\n        .nav-links a:hover {\n            color: var(--coral);\n        }\n        header {\n            background: linear-gradient(to right, #fff, #f8e8d8);\n            padding: 60px 20px;\n            text-align: center;\n            border-radius: 0 0 20px 20px;\n        }\n        h1 {\n            font-size: 3rem;\n            margin-bottom: 15px;\n            color: var(--dark);\n        }\n        .hero-subtitle {\n            font-size: 1.4rem;\n            margin-bottom: 30px;\n            color: #555;\n        }\n        .cta-button {\n            background: var(--coral);\n            color: white;\n            padding: 15px 40px;\n            border-radius: 50px;\n            text-decoration: none;\n            font-size: 1.1rem;\n            display: inline-block;\n            margin-top: 20px;\n            transition: background 0.3s;\n        }\n        .cta-button:hover {\n            background: #e05a4f;\n        }\n        section {\n            padding: 60px 20px;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        h2 {\n            font-size: 2.2rem;\n            margin-bottom: 30px;\n            text-align: center;\n            color: var(--dark);\n        }\n        .intro-text {\n            max-width: 800px;\n            margin: 0 auto;\n            font-size: 1.1rem;\n            color: #555;\n        }\n        .scenarios-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n            gap: 25px;\n            margin-top: 30px;\n        }\n        .scenario-card {\n            background: white;\n            padding: 25px;\n            border-radius: 15px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            text-align: center;\n            transition: transform 0.3s;\n        }\n        .scenario-card:hover {\n            transform: translateY(-5px);\n        }\n        .scenario-card h3 {\n            color: var(--coral);\n            margin-bottom: 10px;\n        }\n        .plans-section {\n            background: white;\n            border-radius: 20px;\n            padding: 40px;\n            box-shadow: 0 4px 20px rgba(0,0,0,0.08);\n        }\n        .faq-section {\n            background: white;\n            border-radius: 20px;\n            padding: 40px;\n            box-shadow: 0 4px 20px rgba(0,0,0,0.08);\n        }\n        details {\n            margin-bottom: 20px;\n            border-bottom: 1px solid #eee;\n            padding-bottom: 15px;\n        }\n        summary {\n            font-size: 1.2rem;\n            font-weight: 600;\n            color: var(--dark);\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        .download-section {\n            text-align: center;\n            background: linear-gradient(to right, #fff, #f8e8d8);\n        }\n        .download-btn {\n            background: var(--coral);\n            color: white;\n            padding: 18px 50px;\n            font-size: 1.3rem;\n            border-radius: 50px;\n            text-decoration: none;\n            display: inline-block;\n            margin: 20px 0;\n        }\n        footer {\n            background: #2c3e50;\n            color: white;\n            padding: 40px 20px;\n            text-align: center;\n        }\n        .footer-links {\n            display: flex;\n            justify-content: center;\n            gap: 30px;\n            margin-bottom: 20px;\n        }\n        .footer-links a {\n            color: white;\n            text-decoration: none;\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <div class=\"nav-container\">\n                <div class=\"logo\">龙猫云</div>\n                <div class=\"nav-links\">\n                    <a href=\"#intro\">首页</a>\n                    <a href=\"#plans\">套餐对比</a>\n                    <a href=\"#faq\">常见问题</a>\n                    <a href=\"#download\">客户端下载</a>\n                </div>\n            </div>\n        </nav>\n        <header>\n            <h1>龙猫云</h1>\n            <p class=\"hero-subtitle\">安全VPN加速器 | 流媒体解锁 | 官方客户端</p>\n            <a href=\"#plans\" class=\"cta-button\">立即查看套餐</a>\n        </header>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p class=\"intro-text\">\n                龙猫云是一款专注于网络加速的VPN服务，致力于为用户提供稳定高速的连接体验。通过先进的网络技术，我们帮助用户畅享无障碍的网络生活。\n            </p>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <div class=\"scenarios-grid\">\n                <div class=\"scenario-card\">\n                    <h3>家庭共享</h3>\n                    <p>支持多设备同时在线，轻松为家庭成员提供加速服务。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化，减少延迟，享受流畅游戏体验。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>流媒体解锁</h3>\n                    <p>解锁Netflix、YouTube等平台内容，畅享高清视频。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>远程办公</h3>\n                    <p>稳定线路保障工作不中断，高效完成任务。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐对比</h2>\n            <p>根据您的需求选择最适合的VPN套餐，享受不同级别的流量和支持。</p>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"howto\">\n            <h2>操作说明</h2>\n            <div>\n                <div>\n                    <div>1</div>\n                    <div>\n                        <h3>访问官网下载客户端</h3>\n                        <p>登录龙猫云官网，找到下载入口获取最新版本客户端。</p>\n                    </div>\n                </div>\n                <div>\n                    <div>2</div>\n                    <div>\n                        <h3>安装并登录账号</h3>\n                        <p>安装客户端后，使用您的账号登录，选择合适的套餐。</p>\n                    </div>\n                </div>\n                <div>\n                    <div>3</div>\n                    <div>\n                        <h3>连接节点加速</h3>\n                        <p>选择节点连接，即可享受加速服务。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section id=\"faq\" class=\"faq-section\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是龙猫云？</summary>\n                <p>龙猫云是一款专业的VPN加速器，提供多种套餐供个人和团队使用。</p>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>基础版适合日常使用，旗舰版适合需要流媒体解锁的用户，团队版适合大型团队。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</p>\n            </details>\n            <details>\n                <summary>年付套餐有何优惠？</summary>\n                <p>按年付仅需对应年付价格，节省更多。</p>\n            </details>\n            <details>\n                <summary>如何获取售后支持？</summary>\n                <p>旗舰版及以上提供7x24优先工单支持。</p>\n            </details>\n        </section>\n        <section id=\"download\" class=\"download-section\">\n            <h2>客户端下载</h2>\n            <p>立即体验龙猫云的加速服务</p>\n            <a href=\"#plans\" class=\"download-btn\">下载客户端</a>\n        </section>\n        {{CLIENTS_HTML}}\n        <footer>\n            <div class=\"footer-links\">\n                <a href=\"#intro\">首页</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#download\">下载</a>\n            </div>\n            <p>© 2024 龙猫云 版权所有 | 仅供参考</p>\n        </footer>\n    </main>\n\n",
+          "hash": "913a990dd781db074dfe83d84ce556ff5ee5749cc2533dfa24404a3d28a7030d",
+          "seo": {
+            "title": "龙猫云机场 - 安全稳定VPN加速器 官方下载",
+            "keywords": "龙猫云,龙猫云机场,龙猫云VPN,加速器,客户端下载,官网下载",
+            "description": "龙猫云机场提供基础版、旗舰版、团队版套餐，助力网络加速和流媒体解锁。官方客户端下载入口，体验稳定高速网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sddsd.cn",
+    "host": "a.sddsd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "sddsd.cn",
+      "url": "https://sddsd.cn/",
+      "label": "MZFast",
+      "apex": "sddsd.cn",
+      "kind": null,
+      "identity": "lnzlwsdd/page-b175f739e11a0a7fad0695cc"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ae895b1a604e8cd20c95b914d84346a25c19256fd00639c43f9e4c88d107ebd8",
+    "sitemap.xml": "0877adcca079eeabfc1d30a1a89deaa1b3276661e0e3b8f55206a034670ecfcb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "af818ec1ffc9816491c824bca74a7345d10d208bf588967e07690d7af4baebd5",
+    "robots.txt": "2e4ecc8962dc4c54752b74336c6799c7bd23b4394ad51a3fc0a5cc305dec99e2",
+    "7c9008ef28cdb29361c8ee12fa3f7e98.txt": "cd6d44ac55f5a24638f81f5a562e7e27c6ee122179a8591ae4d54d146358cd9e"
+  },
+  "revision": "7adc889dfb2a273728d4cc18f4acce34456b2cdc598882b062f79e0df16ca288"
+}
